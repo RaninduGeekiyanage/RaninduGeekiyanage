@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi! I'm Ranindu, a passionate developer with a focus on building efficient and user-friendly solutions. I enjoy working with modern technologies and constantly strive to learn and improve.
+
+Hi, I'm Ranindu Geekiyanage 👋
+
+Passionate Full-Stack developer
+
+I design and develop:
+- Business Management Systems (BMS)
+- POS Systems
+- ERP-like solutions for SMEs
+
+⚠️ Note:
+All production systems are private due to company/client confidentiality.
+Public repositories showcase architecture, features, and system design.
 
 
 ## 🌐 Socials:
