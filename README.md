@@ -10,7 +10,7 @@ I design and develop:
 - ERP-like solutions for SMEs
 
 ⚠️ Note:
-All production systems are private due to company/client confidentiality.
+Some production systems are private due to company/client confidentiality.
 Public repositories showcase architecture, features, and system design.
 
 
