@@ -7,7 +7,9 @@ Passionate Full-Stack developer
 I design and develop:
 - Business Management Systems (BMS)
 - POS Systems
-- ERP-like solutions for SMEs
+- Smart Water Management System
+- Field Management System(FMS)
+- Attendance Management system(AMS)
 
 ⚠️ Note:
 Some production systems are private due to company/client confidentiality.
