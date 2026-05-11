@@ -10,6 +10,7 @@ I design and develop:
 - Smart Water Management System
 - Field Management System(FMS)
 - Attendance Management system(AMS)
+- Weighbridge System
 
 ⚠️ Note:
 Some production systems are private due to company/client confidentiality.
